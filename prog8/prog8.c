@@ -125,3 +125,16 @@ int main()
 
     return (0);
 }
+
+/*
+ Choose an option:
+1.) SIGSEGV
+2.) SIGINT
+3.) SIGFPE
+4.) SIGALRM (alarm system call)
+5.) SIGALRM (setitimer system call)
+6.) SIGVTALRM (setitimer system call)
+7.) SIGPROF (setitimer system call)
+=> 1
+Segmentation fault caught
+*/
